@@ -1,0 +1,21 @@
+{
+  "name": "prime-pt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countArrowsToRotate.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "lodash": "^4.17.21",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^6.0.0-alpha.3"
+  }
+}
